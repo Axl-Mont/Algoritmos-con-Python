@@ -63,3 +63,4 @@ algoritmo = int(input(
 
 
 inicio()
+input()
